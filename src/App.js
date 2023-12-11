@@ -3,7 +3,7 @@ import React from 'react';
 import YouTubeSearch from './firstpage';
 
 function App() {
-  const videoId = "latest technology trends 2023"; // Replace with your actual video ID
+  const videoId = "latest technology trends 2023"; 
 
   return (
     <div className="App">
